@@ -1,0 +1,5 @@
+Files-Pattern: *
+License-Type: open
+
+Mod Autor: Klozz Jesús AKA TeamMEX in XDA-Developers
+Optimized for cortex-a9,a15 and generic
